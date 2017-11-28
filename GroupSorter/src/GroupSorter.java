@@ -6,5 +6,18 @@ public class GroupSorter
 			{
 			
 			}
-
+		
+		public void reader()
+			{
+				
+			}
+		public void sorter()
+			{
+			
+			}
+		public void printer()
+			{
+			
+			}
+		
 	}
